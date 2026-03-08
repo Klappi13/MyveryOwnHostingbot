@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Toobad",
   "bot-account": {
-    "username": "ELbotAfkdelserver",
+    "username": "Toobad",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "GreenShinobiWorld.aternos.me",
-    "port": 32510,
+    "ip": "voidn.falixsrv.me",
+    "port": 29541,
     "version": "1.21.1"
   },
   "position": {
